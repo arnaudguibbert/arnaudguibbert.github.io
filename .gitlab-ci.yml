@@ -1,4 +1,4 @@
-image: ruby:latest
+image: timbru31/ruby-node:latest
 
 variables:
   JEKYLL_ENV: production
@@ -7,6 +7,8 @@ variables:
 before_script:
   - gem install bundler
   - bundle install
+  - npm install
+  - npm run build
 
 test:
   stage: test
