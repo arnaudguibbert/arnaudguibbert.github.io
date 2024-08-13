@@ -55,7 +55,7 @@
 
     {% for entry in site.data.contact %}
       {% case entry.type %}
-        {% when 'github', 'twitter' %}
+        {% when 'gitlab', 'linkedin' %}
           {%- capture url -%}
             https://{{ entry.type }}.com/{{ site[entry.type].username }}
           {%- endcapture -%}
@@ -67,6 +67,7 @@
         {% when 'rss' %}
           {% assign url = '/feed.xml' | relative_url %}
         {% else %}
+
           {% assign url = entry.url %}
       {% endcase %}
 
