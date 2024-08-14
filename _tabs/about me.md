@@ -4,25 +4,24 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## 📝 Bio
 
-## Bio
+I am coming from the vibrant city of Marseille in France. Although I spent most of my childhood there, I must admit that football and pétanque aren't among my strongest skills, but I do have other qualities!
 
-This is my Bio.
+My academic journey began outside Marseille with a Preparatory Class for the ‘grandes écoles’ at [Lycée du Parc](https://lyceeduparc.fr/ldp/) in Lyon, where I rigorously studied mathematics, physics, chemistry, and applied mechanics. After two intense years, I joined [CentraleSupélec Paris-Saclay University](https://www.centralesupelec.fr/en) in Paris. There, I focused on statistics, optimization, quantum physics, and fluid mechanics, earning my Bachelor's degree in Science. I then pursued a dual degree with [EPFL](https://www.epfl.ch/en/) in Switzerland, focusing on deep learning, statistics, and optimization. In April 2023, I graduated with Master's degrees in Science from both EPFL and CentraleSupélec.
 
-## Teaching
+Alongside my studies, I was intern at [Procsim](https://procsim.ch/), where I developed meta-heuristic algorithms to optimize operating room schedules in hospitals. I also actively participated in various student associations, such as [SBCS](https://www.sbcs-events.fr/) and [CS Design](https://www.facebook.com/centralesupelecdesign/).
 
-Those are my teaching experiences.
+In September 2022, I joined [Swisscom](https://www.swisscom.ch/en/about/innovation/analytics-artificial-intelligence.html) for my master's thesis, and in June 2023, I transitioned into a Data Scientist role within the *Data Analytics & AI* department. I currently work at Swisscom as a Data/ML Engineer.
 
-## Research projects
+## 📘 Teaching
 
-Here are my main research projects.
+Throughout my academic journey, I’ve enjoyed teaching and had the privilege of assisting in the following courses:
+- **Advanced Machine Learning** taught by Professor [Aude Billard](https://people.epfl.ch/aude.billard) at EPFL, where I helped students grasp advanced ML concepts and supervised projects (~ 30 students).
+- **Applied Machine Learning** taught by Professor [Aude Billard](https://people.epfl.ch/aude.billard) at EPFL, where I assisted students in understanding fundamental ML concepts (~ 100 students).
+- **Quantum & Statistical Physics** taught by Professor [Jean Michel Gillet](https://www.centralesupelec.fr/en/068C856A-E4BD-40D4-A02A-EC25B35E0C76) at CentraleSupélec, where I taught the basics of quantum physics and prepared short exams for the students (~ 30 students).
 
-## Awards
+## 🏅 Awards
 
-- Best grade at EPFL.
-
-## Personal interests
-
-My personal interests
+- Best average grade in the Microengineering/Data Science section: 5.78/6. EPFL Master's graduating class of 2023.
+- French Baccalaureate with the Jury's congratulations, achieving an average grade of 19.18/20.
