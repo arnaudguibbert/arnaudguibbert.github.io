@@ -5,7 +5,7 @@ description: >-
   Let me share my own journey.
 author: me
 date: 2024-08-13 18:30:00 +0800
-categories: [Projects, Research]
+categories: [Blog]
 tags: [ML, MLOps]
 pin: true
 ---
