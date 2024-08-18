@@ -55,9 +55,13 @@
 
     {% for entry in site.data.contact %}
       {% case entry.type %}
-        {% when 'gitlab', 'linkedin' %}
+        {% when 'gitlab' %}
           {%- capture url -%}
             https://{{ entry.type }}.com/{{ site[entry.type].username }}
+          {%- endcapture -%}
+        {% when 'linkedin' %}
+          {%- capture url -%}
+            https://www.{{ entry.type }}.com/in/agcs/?locale=en_US
           {%- endcapture -%}
         {% when 'email' %}
           {% assign email = site.social.email | split: '@' %}

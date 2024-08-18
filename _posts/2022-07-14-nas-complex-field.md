@@ -4,7 +4,7 @@ description: >-
   Put a small description here
 author: me
 date: 2022-07-14 18:30:00 +0800
-categories: [Blog]
+categories: [Projects, Research]
 tags: [Research, ML, Deep Learning, NAS, Speech Recognition]
 pin: true
 ---
