@@ -1,7 +1,7 @@
 ---
 title: Knowledge graph abstraction layers
 description: >-
-  Knowledge Graphs (KGs) have become a go-to method for storing and organizing complex real-world data. Unfortunately their size make them difficult to manage and understand. Let's see how we can transform them in smaller graph while keeping their structure.
+  Knowledge Graphs (KGs) have become a go-to method for storing and organizing complex real-world data. Unfortunately their size make them difficult to manage and understand. Let's see how we can transform them in smaller graph while preserving their structure.
 author: me
 date: 2023-04-01 18:30:00 +0800
 categories: [Projects, Research]
@@ -11,7 +11,7 @@ usemathjax: true
 ---
 
 > This post is a condensed version of our paper on knowledge graph abstraction. You can check out the full paper [here](https://gitlab.com/research2003933/kg-abstraction-layers/-/raw/master/paper.pdf?ref_type=heads&inline=false).
-{: .prompt-tip }
+{: .prompt-info }
 
 ### Simplifying Knowledge Graphs: A Step-by-Step Approach to Abstraction
 
