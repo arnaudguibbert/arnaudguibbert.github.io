@@ -5,6 +5,7 @@ variables:
   LC_ALL: C.UTF-8
 
 before_script:
+  - npm install mathjax
   - npm install
   - npm run build
   - gem install bundler
