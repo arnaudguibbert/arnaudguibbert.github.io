@@ -5,8 +5,7 @@ variables:
   LC_ALL: C.UTF-8
 
 before_script:
-  - npm install
-  - npm run build
+  - npm ci run build
   - gem install bundler
   - bundle install
 

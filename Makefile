@@ -1,4 +1,4 @@
 .PHONY: deploy-local
 deploy-local:
-	npm run build
+	npm ci run build
 	bundle exec jekyll serve
