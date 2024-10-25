@@ -13,7 +13,7 @@ before_script:
 test:
   stage: test
   script:
-  - bundle exec jekyll build -d test
+  - bundle exec jekyll build --config _config.yml -d test
   artifacts:
     paths:
     - test
@@ -23,10 +23,10 @@ test:
 pages:
   stage: deploy
   script:
-  - bundle exec jekyll build --config _config.yml,./configs/_${CI_COMMIT_REF_NAME}.yml -d public 
+  - bundle exec jekyll build --config _config.yml -d public 
   artifacts:
     name: "$CI_COMMIT_REF_NAME"
     paths:
     - public
   rules:
-    - if: $CI_COMMIT_REF_NAME == "master" ||  $CI_COMMIT_REF_NAME == "develop"
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
