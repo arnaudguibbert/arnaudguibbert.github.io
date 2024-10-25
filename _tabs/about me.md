@@ -6,7 +6,7 @@ order: 1
 
 ## 📝 Bio
 
-I am coming from the vibrant city of Marseille in France. Although I spent most of my childhood there, I must admit that football and pétanque aren't among my strongest skills, but I do have other qualities!
+Efficient and autonomous, I am a Data Scientist with over 2+ years of experience in developing deep learning models and building end to end ML/Data Pipelines. Over the past two years, I have contributed to 4+ projects, three of which have been successfully deployed in production at Swisscom, serving over 15k+ employees.
 
 My academic journey began outside Marseille with a Preparatory Class for the ‘grandes écoles’ at [Lycée du Parc](https://lyceeduparc.fr/ldp/) in Lyon, where I rigorously studied mathematics, physics, chemistry, and applied mechanics. After two intense years, I joined [CentraleSupélec Paris-Saclay University](https://www.centralesupelec.fr/en) in Paris. There, I focused on statistics, optimization, quantum physics, and fluid mechanics, earning my Bachelor's degree in Science. I then pursued a dual degree with [EPFL](https://www.epfl.ch/en/) in Switzerland, focusing on deep learning, statistics, and optimization. In April 2023, I graduated with Master's degrees in Science from both EPFL and CentraleSupélec.
 
