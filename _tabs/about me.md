@@ -14,6 +14,9 @@ Alongside my studies, I was intern at [Procsim](https://procsim.ch/), where I de
 
 In September 2022, I joined [Swisscom](https://www.swisscom.ch/en/about/innovation/analytics-artificial-intelligence.html) for my master's thesis, and in June 2023, I transitioned into a Data Scientist role within the *Data Analytics & AI* department. I currently work at Swisscom as a Data/ML Engineer.
 
+> You can find more information about my experience in my [Resume](/assets/pdf/CV.pdf).
+{: .prompt-info }
+
 ## 📘 Teaching
 
 Throughout my academic journey, I’ve enjoyed teaching and had the privilege of assisting in the following courses:
@@ -23,5 +26,5 @@ Throughout my academic journey, I’ve enjoyed teaching and had the privilege of
 
 ## 🏅 Awards
 
-- Best average grade in the Microengineering/Data Science section: 5.78/6. EPFL Master's graduating class of 2023.
+- Highest GPA of the Microengineering/Data Science department: 5.78/6. EPFL Master's graduating class of 2023.
 - French Baccalaureate with the Jury's congratulations, achieving an average grade of 19.18/20.
