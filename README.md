@@ -1,6 +1,6 @@
 # My HomePage
 
-This repository stores the code for my homepage / website. It comes from the [Chirpy jekyll](https://chirpy.cotes.page/) them hosted on this [github repo](https://github.com/cotes2020/jekyll-theme-chirpy). Some modifications were performed to adapt the code to gitlab.
+This repository stores the code for my homepage / website. It comes from the [Chirpy jekyll](https://chirpy.cotes.page/) theme hosted on this [github repository](https://github.com/cotes2020/jekyll-theme-chirpy). Some modifications were performed to adapt the code to Gitlab.
 
 ## Getting Started
 
@@ -18,9 +18,9 @@ To deploy the website locally, run the following make command:
 ```
 make deploy-local
 ```
-It will deploy the website locally at this [url](http://127.0.0.1:4000/).
+It will deploy the website locally at your local url [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
 
 ### GitLab CICD deployment
 
-The website deployed on Gitlab CI is built by GitLab CI, following the steps defined in [.gitlab-ci.yml](./.gitlab-ci.yml).
+The website deployed on Gitlab is built through the GitLab CI, following the steps defined in [.gitlab-ci.yml](./.gitlab-ci.yml).
 
