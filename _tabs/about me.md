@@ -10,11 +10,11 @@ Efficient and autonomous, I am a Data Scientist with over 2+ years of experience
 
 My academic journey began outside Marseille with a Preparatory Class for the ‘grandes écoles’ at [Lycée du Parc](https://lyceeduparc.fr/ldp/) in Lyon, where I rigorously studied mathematics, physics, chemistry, and applied mechanics. After two intense years, I joined [CentraleSupélec Paris-Saclay University](https://www.centralesupelec.fr/en) in Paris. There, I focused on statistics, optimization, quantum physics, and fluid mechanics, earning my Bachelor's degree in Science. I then pursued a dual degree with [EPFL](https://www.epfl.ch/en/) in Switzerland, focusing on deep learning, statistics, and optimization. In April 2023, I graduated with Master's degrees in Science from both EPFL and CentraleSupélec.
 
-Alongside my studies, I was intern at [Procsim](https://procsim.ch/), where I developed meta-heuristic algorithms to optimize operating room schedules in hospitals. I also actively participated in various student associations, such as [SBCS](https://www.sbcs-events.fr/) and [CS Design](https://www.facebook.com/centralesupelecdesign/).
+Alongside my studies, I was intern at [Procsim](https://procsim.ch/en/), where I developed meta-heuristic algorithms to optimize operating room schedules in hospitals. I also actively participated in various student associations, such as [SBCS](https://www.sbcs-events.fr/) and [CS Design](https://www.facebook.com/centralesupelecdesign/).
 
-In September 2022, I joined [Swisscom](https://www.swisscom.ch/en/about/innovation/analytics-artificial-intelligence.html) for my master's thesis, and in June 2023, I transitioned into a Data Scientist role within the *Data Analytics & AI* department. I currently work at Swisscom as a Data/ML Engineer.
+In September 2022, I joined [Swisscom](https://www.swisscom.ch/en/about/innovation/analytics-artificial-intelligence.html) for my master's thesis, and in June 2023, I transitioned into a Data Scientist - ML engineer role within the *Data Analytics & AI* department.
 
-> You can find more information about my experience in my [Resume](/assets/pdf/CV.pdf).
+> You can find more information about my experience and the projects I conducted in my [Resume](/assets/pdf/CV.pdf).
 {: .prompt-info }
 
 ## 📘 Teaching

@@ -10,7 +10,7 @@ pin: true
 usemathjax: true
 ---
 
-> This post is a simplified version of our paper on Neural Architecture Search in the complex field for audio recognition. You can read the full paper [here](https://gitlab.com/research2003933/nas-complex-field/-/blob/main/paper.pdf?ref_type=heads).
+> This post is a simplified version of our paper on Neural Architecture Search in the complex field for audio recognition. You can read the full paper [here](/assets/pdf/papers/nas.pdf).
 {: .prompt-info }
 
 Designing a deep neural network can feel like navigating an endless sea of possibilities. With countless options for tweaking hyperparameters, shaping the network's structure, and deciding on the types of operations to use, the potential configurations are litterally limitless. While some incredibly powerful architectures have been handcrafted—like Transformers, CNNs, GNNs, or U-Net—there's still a vast uncharted territory of architectures waiting to be discovered.

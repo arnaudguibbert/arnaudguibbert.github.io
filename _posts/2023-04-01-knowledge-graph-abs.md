@@ -10,7 +10,7 @@ pin: true
 usemathjax: true
 ---
 
-> This post is a condensed version of our paper on knowledge graph abstraction. You can check out the full paper [here](https://gitlab.com/research2003933/kg-abstraction-layers/-/raw/master/paper.pdf?ref_type=heads&inline=false).
+> This post is a condensed version of our paper on knowledge graph abstraction. You can check out the full paper [here](/assets/pdf/papers/knowledge_graph.pdf).
 {: .prompt-info }
 
 ### Simplifying Knowledge Graphs: A Step-by-Step Approach to Abstraction
