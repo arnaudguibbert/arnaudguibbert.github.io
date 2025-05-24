@@ -12,7 +12,10 @@ env:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -39,6 +42,7 @@ jobs:
           bundle exec jekyll build --config _config.yml -d public
 
       - name: Deploy to GitHub Pages
+        if: github.ref == ${{ github.event.repository.default_branch }}
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
