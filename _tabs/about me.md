@@ -14,6 +14,8 @@ Alongside my studies, I was intern at [Procsim](https://procsim.ch/en/), where I
 
 In September 2022, I joined [Swisscom](https://www.swisscom.ch/en/about/innovation/analytics-artificial-intelligence.html) for my master's thesis, and in June 2023, I transitioned into a Data Scientist - ML engineer role within the *Data Analytics & AI* department.
 
+After two years at Swisscom, I embarked on a new chapter as an MLOps Engineer at [Moonpig](https://www.moonpig.com/uk/about-us/). In this role, I focus on streamlining the Data Science team's workflows by automating machine learning jobs and deployment pipelines.
+
 > You can find more information about my experience and the projects I conducted in my [Resume](/assets/pdf/CV.pdf).
 {: .prompt-info }
 
