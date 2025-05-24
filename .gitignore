@@ -26,3 +26,6 @@ package-lock.json
 # Misc
 _sass/dist
 assets/js/dist
+
+# act
+.actrc
