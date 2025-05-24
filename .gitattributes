@@ -8,8 +8,5 @@
 *.{cmd,[cC][mM][dD]} text eol=crlf
 *.{bat,[bB][aA][tT]} text eol=crlf
 # Denote all files that are truly binary and should not be modified.
-*.png filter=lfs diff=lfs merge=lfs -text
-*.jpg filter=lfs diff=lfs merge=lfs -text
 *.jpg binary
 *.ico binary
-*.pdf filter=lfs diff=lfs merge=lfs -text
