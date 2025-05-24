@@ -1,4 +1,4 @@
-name: Deploy Site
+name: Deploy Github Page
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -68,6 +68,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
+      # Purely informative, will show up in the workflow UI
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
