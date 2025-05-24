@@ -84,7 +84,7 @@ Beyond the method itself, existing NAS methods can be improved by optimizing the
 
 ## What We Found
 
-We tested our methods on an audio dataset using both real and complex neural networks. The details are in the [paper](https://gitlab.com/research2003933/nas-complex-field/-/blob/main/paper.pdf?ref_type=heads), but here’s the gist:
+We tested our methods on an audio dataset using both real and complex neural networks. The details are in the [paper](/assets/pdf/papers/nas.pdf), but here’s the gist:
 
 Our main goal was to explore new and existing methods in NAS for audio recognition in the complex field. We proposed ForceDARTS, a DARTS variant that showed better performance than DARTS and was on par with FairDARTS. Additionally, we diversified the search space by introducing pairwise operations. This diversification yielded results similar to those with the original search space, though it also increased the risk of ending up with an unstable architecture, especially when polynomial operations were heavily used.
 

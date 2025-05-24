@@ -23,13 +23,13 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://arnaudguibbert.gitlab.io"
+url: "https://arnaudguibbert.github.io"
 
 # Build settings
 markdown: kramdown
 
-gitlab:
-  username: arnaudguibbert # change to your GitLab username
+github:
+  username: arnaudguibbert # change to your GitHub username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: arnaudguibbert@hotmail.fr # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://gitlab.com/arnaudguibbert # change to your GitHub homepage
+    - https://github.com/arnaudguibbert # change to your GitHub homepage
     # Uncomment below to add more social links
     - https://www.linkedin.com/in/agcs/?locale=en_US
 
